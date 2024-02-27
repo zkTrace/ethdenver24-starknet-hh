@@ -28,9 +28,9 @@ Iteratively apply the recursive verifier to reduce multiple proofs down to a sin
 # Current Limitations 
 While our project successfully demonstrates the potential of integrating distributed systems with IVC for ZK computations, we acknowledge the current limitation in recursively verifying Cairo1 proofs. As a proof of concept, we have developed the system using Cairo0. Future updates will include transitioning to a Cairo1 recursive proof system, contingent on StarkNet releasing a Cairo1 verifier.
 
-## Integration with Amazon Web Services (AWS)
+## Future Integration with Amazon Web Services (AWS)
 Our initial implementation showcases the potential of combining zero-knowledge computations with distributed systems on a single-node setup. To truly harness the power of distributed computing and enhance scalability, reliability, and performance, we plan to expand our architecture to integrate seamlessly with Amazon Web Services (AWS).
-<img width="1635" alt="overall_archtiecture" src="https://github.com/STARKScale/ethdenver24-starknet-hh/assets/91217444/0f45d94f-0dfe-445a-b5f2-e9c317f8a769">
+![architecture](https://github.com/STARKScale/ethdenver24-starknet-hh/assets/91217444/544d1ece-c06a-4a3f-a278-6876370a3ef2)
 
 ## Contributors
 Felix Meng, Tommy Hang, Trevor Trinh, Liwen Ouyang
