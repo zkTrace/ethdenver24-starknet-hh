@@ -11,11 +11,10 @@ Our project pioneers large-scale zero-knowledge (ZK) computations by merging dis
 # Cairo1 End to End zk-Hadoop
 <img width="1568" alt="Cairo1_E2E" src="https://github.com/STARKScale/ethdenver24-starknet-hh/assets/91217444/257643c0-c596-4299-8bc9-ba9033f580bf">
 
-* Parallelization: We overcome the sequential limitations of traditional ZK languages by enabling concurrent computation.
-* Memory Sharding: By partitioning data across various nodes, we efficiently manage and process large datasets.
-* zk-Hadoop MapReduce: Our system employs a zk-Hadoop map-reduce approach for matrix-vector multiplication. 
-* Users input data via input.json, which is then divided and processed by mapper and reducer nodes orchestrated by a coordinator node.
-* Go Worker Nodes: The worker nodes, implemented as Go servers, execute Cairo code, interacting with rust provers and verifiers to compute tasks and generate proofs based on the computation trace.
+- **Parallelization:** We overcome the sequential limitations of traditional ZK languages by enabling concurrent computation.
+- **Memory Sharding:** By partitioning data across various nodes, we efficiently manage and process large datasets.
+- **zk-Hadoop MapReduce:** Our system employs a zk-Hadoop map-reduce approach for matrix-vector multiplication. Users input data via input.json, which is then divided and processed by mapper and reducer nodes orchestrated by a coordinator node.
+- **Go Worker Nodes:** The worker nodes, implemented as Go servers, execute Cairo code, interacting with rust provers and verifiers to compute tasks and generate proofs based on the computation trace.
 
 # Cairo0 Recursive Verifier
 <img width="1347" alt="recursive_verifier" src="https://github.com/STARKScale/ethdenver24-starknet-hh/assets/91217444/bb50675a-d7a2-4a56-9f76-4b5892172d76">
