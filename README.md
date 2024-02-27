@@ -9,7 +9,7 @@ This repository is the final submission from the [STARKScale](https://starkscale
 Our project pioneers large-scale zero-knowledge (ZK) computations by merging distributed systems with Incrementally Verifiable Computation (IVC). We address the scalability bottleneck inherent in sequential ZK languages by introducing parallelization and memory sharding, thereby distributing large datasets across multiple nodes.
 
 # Cairo1 End to End zk-Hadoop
-![Recursive Verifier](images/Cairo1_E2E.jpg "Cairo1 E2E")
+<img width="1568" alt="Cairo1_E2E" src="https://github.com/STARKScale/ethdenver24-starknet-hh/assets/91217444/257643c0-c596-4299-8bc9-ba9033f580bf">
 
 * Parallelization: We overcome the sequential limitations of traditional ZK languages by enabling concurrent computation.
 * Memory Sharding: By partitioning data across various nodes, we efficiently manage and process large datasets.
@@ -18,7 +18,7 @@ Our project pioneers large-scale zero-knowledge (ZK) computations by merging dis
 * Go Worker Nodes: The worker nodes, implemented as Go servers, execute Cairo code, interacting with rust provers and verifiers to compute tasks and generate proofs based on the computation trace.
 
 # Cairo0 Recursive Verifier
-![Recursive Verifier](images/recursive_verifier.jpg "Recursive Verifier")
+<img width="1347" alt="recursive_verifier" src="https://github.com/STARKScale/ethdenver24-starknet-hh/assets/91217444/bb50675a-d7a2-4a56-9f76-4b5892172d76">
 
 A cornerstone of our project is the recursive verifier, inspired by the SHARP prover, operating under a recursive layout. This innovative approach allows us to:
 * Run Cairo code in a recursive layout.
@@ -30,7 +30,7 @@ While our project successfully demonstrates the potential of integrating distrib
 
 ## Integration with Amazon Web Services (AWS)
 Our initial implementation showcases the potential of combining zero-knowledge computations with distributed systems on a single-node setup. To truly harness the power of distributed computing and enhance scalability, reliability, and performance, we plan to expand our architecture to integrate seamlessly with Amazon Web Services (AWS).
-![Project Diagram](images/architecture.jpg "Project Diagram")
+<img width="1635" alt="overall_archtiecture" src="https://github.com/STARKScale/ethdenver24-starknet-hh/assets/91217444/0f45d94f-0dfe-445a-b5f2-e9c317f8a769">
 
 ## Contributors
 Felix Meng, Tommy Hang, Trevor Trinh, Liwen Ouyang
