@@ -1,0 +1,6 @@
+[submodule "cairo1-zkhadoop"]
+	path = cairo1-zkhadoop
+	url = https://github.com/STARKScale/cairo1-zkhadoop.git
+[submodule "cairo0-recursive-verifier"]
+	path = cairo0-recursive-verifier
+	url = https://github.com/STARKScale/cairo0-recursive-verifier.git
