@@ -50,12 +50,21 @@ Our initial implementation showcases the potential of combining zero-knowledge c
 ## Contributors
 Felix Meng, Tommy Hang, Trevor Trinh, Liwen Ouyang
 
-Incredbile thanks to our mentors, guides, and friends:
+## Acknowledgments
+Incredible thanks to our mentors, guides, and organizers from the Hacker Houser who provided support, insights, and encouragement throughout this project:
+### Coding support
 - David
 - Pierre
+- Beja
+### Recursive Verifier
+- Marcello
+### Business Insight
 - Ivan
-- Marcelo
+- Dimitry
+### Organizing the Event
 - Gnana
 - Gurk
-- Beja
+- Damian
+
+Their expertise and guidance have been instrumental in the success and development of the Hacker House project.
 
