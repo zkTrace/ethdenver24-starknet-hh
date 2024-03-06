@@ -1,4 +1,4 @@
-# Introduce Parallelization and Distributed Memory to Cairo
+# Introduce Paralleliztion and Memory Sharding to Cairo
 <img width="1150" alt="Screenshot 2024-02-26 at 11 01 17 PM" src="https://github.com/STARKScale/ethdenver24-starknet-hh/assets/47396265/2d202450-8234-4a21-b743-127a1c038233">
 
 ---
